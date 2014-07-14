@@ -133,7 +133,7 @@ JB :
 prose:
   rooturl: '_posts'
   siteurl: 'http://dinsoft.github.io'
-  relativeLinks:  
+  relativeLinks:  'http://dinosoft.github.io/links.jsonp'
   media: 'media'
   ignore:
     - index.md
